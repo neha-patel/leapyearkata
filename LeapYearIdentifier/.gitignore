@@ -1,0 +1,19 @@
+###################
+# compiled source #
+###################
+*.suo
+*.dll
+*.cache
+*.user
+debug/
+bin/
+obj/
+.vs/
+*.nupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+*.ncrunchproject
+*.ncrunchsolution
+*.ncrunchsolution.user

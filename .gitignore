@@ -1,0 +1,4 @@
+**/packages/*
+*.ncrunchsolution
+*.ncrunchsolution.user
+*.suo
